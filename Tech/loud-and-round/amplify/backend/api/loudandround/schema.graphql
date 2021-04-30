@@ -1,0 +1,8 @@
+type Article @model {
+  id: ID!
+  title: String!
+  htmlBody: String!
+  textBody: String!
+  byline: String
+  excerpt: String
+}
