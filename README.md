@@ -2,6 +2,11 @@
 
 这个Repo会记录下来 LoudAndRound 项目的 Todo，产品文档，UX设计文档，以及技术文档。
 
+## Calling for
+- 欢迎你写下你需要的学习内容和功能
+- 公众号文章：请直接提交至这个Repo，我们会把您的名字列为作者
+- 开源的文章或者书籍
+
 ## Todo
 
 ### [产品](./Product/README.md)
@@ -40,3 +45,4 @@
   ML/DL, Data (Audio & Rating)  
   Input: Audio  
   Output: List of ratings
+
