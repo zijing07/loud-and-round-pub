@@ -1,13 +1,8 @@
 ## To start testing
 
-1. Prepare an AWS account
-1. In this folder, run the following commands
-```
-amplify configure
-amplify init
-amplify push
-yarn start
-```
+1. Install node (>= v12) in your computer
+1. Install yarn: `npm install -g yarn`
+1. In this folder, run the following commands: `yarn start`
 1. Then you should be able to go to `localhost:3000` to view the web page.
 
 ## Available Scripts

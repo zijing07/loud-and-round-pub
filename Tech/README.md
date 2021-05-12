@@ -23,7 +23,7 @@
 
 ### 2. 文章听音填空
 1. 准备任意音频1min，与Transcript（可以用BBC 6min）
-1. 音频也可以大于1min，然后在前端用音频播放器播放 TimeA -> TimeA+60s 的片段
+1. 音频也可以大于1min，然后在前端用音频播放器播放 TimeA -> TimeA+60s 的片段 [Ref1](https://stackoverflow.com/questions/45553396/html5-audio-tag-start-and-end-at-position)
 1. Transcript必须对应着这1min的内容
 1. 从Transcript中，挑出8-10个单词或词组（Word Options）
 1. 前端功能：
